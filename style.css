@@ -11,6 +11,17 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.history {
+  text-align: center;
+  color: #919191;
+  font-size: 20px;
+}
+
+.history p {
+  display: table-cell;
+  animation: animate 2s linear infinite;
+}
+
 .calculator {
   text-align: center;
   margin: 0 auto;
